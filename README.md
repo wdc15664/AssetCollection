@@ -56,4 +56,4 @@ AssetCollection/TargetInput/targets.txt
 
 如需增加可扩展相关扩展工具及脚本
 
-![image-20250930161018751](C:\Users\wym\AppData\Roaming\Typora\typora-user-images\image-20250930161018751.png)
+![image-20250930161018751](.\img\image-20250930161018751.png)
